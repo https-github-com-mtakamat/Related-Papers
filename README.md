@@ -14,8 +14,9 @@
 [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](https://arxiv.org/abs/1603.03417)
 
 ## Image to Image Transformation(GAN)の関連論文
+[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
 
-
+[FEATURE-BASED METRICS FOR EXPLORING THE LATENT SPACE OF GENERATIVE MODELS](https://pdfs.semanticscholar.org/c896/4f0c29d69383b9239a244848345d14a34e44.pdf)
 ## 損失関数部分の関連論文
 
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
