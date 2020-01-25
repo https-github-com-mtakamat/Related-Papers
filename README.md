@@ -13,7 +13,7 @@
 
 [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](https://arxiv.org/abs/1603.03417)
 
-##Image to Image Transformation(GAN)の関連論文
+## Image to Image Transformation(GAN)の関連論文
 
 
 ## 損失関数部分の関連論文
