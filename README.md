@@ -11,5 +11,12 @@
 
 [Artistic style transfer for videos](https://arxiv.org/pdf/1604.08610.pdf)
 
+[Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](https://arxiv.org/abs/1603.03417)
+
 ## 損失関数部分の関連論文
 
+[Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
+
+[The Contextual Loss for Image Transformation with Non-Aligned Data](https://arxiv.org/abs/1803.02077)
+
+[Maintaining Natural Image Statistics with the Contextual Loss](https://arxiv.org/abs/1803.04626)
