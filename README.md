@@ -3,7 +3,7 @@
 
 参考にした[Githubページ](https://github.com/cysmith/neural-style-tf/)，[QiitaのStyle Transfer 記事](https://qiita.com/kidach1/items/0e7af5981e39955f33d6)
 
-## ネットワーク部分の関連論文
+## Style Transferの関連論文
 
 [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
@@ -12,6 +12,9 @@
 [Artistic style transfer for videos](https://arxiv.org/pdf/1604.08610.pdf)
 
 [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images](https://arxiv.org/abs/1603.03417)
+
+##Image to Image Transformation(GAN)の関連論文
+
 
 ## 損失関数部分の関連論文
 
