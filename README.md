@@ -1,7 +1,7 @@
 # 論文解説ページ
 [この記事に](https://softologyblog.wordpress.com/2019/03/31/style-transfer-gans-generative-adversarial-networks/)刺激を受けて画風変換アプリケーションを作る
 
-参考にした[Githubページ](https://github.com/cysmith/neural-style-tf/)，[Qiitaの記事](https://qiita.com/kidach1/items/0e7af5981e39955f33d6\)
+参考にした[Githubページ](https://github.com/cysmith/neural-style-tf/)，[Qiitaの記事](https://qiita.com/kidach1/items/0e7af5981e39955f33d6)
 
 ## ネットワーク部分の関連論文
 
