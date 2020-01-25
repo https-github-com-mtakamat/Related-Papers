@@ -7,9 +7,9 @@
 
 [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
-[Preserving Color in Neural Artistic Style Transfer](https://arxiv.org/pdf/1606.05897.pdf\)
+[Preserving Color in Neural Artistic Style Transfer](https://arxiv.org/pdf/1606.05897.pdf)
 
-[Artistic style transfer for videos](https://arxiv.org/pdf/1604.08610.pdf\)
+[Artistic style transfer for videos](https://arxiv.org/pdf/1604.08610.pdf)
 
 ## 損失関数部分の関連論文
 
